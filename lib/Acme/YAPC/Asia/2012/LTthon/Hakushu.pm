@@ -38,15 +38,15 @@ This document describes Acme::YAPC::Asia::2012::LTthon::Hakushu version 0.01.
 
 =head1 DESCRIPTION
 
-# TODO
+This is an acme module for YAPC::Asia 2012, L<http://yapcasia.org/2012/>.
 
 =head1 INTERFACE
 
-=head2 Functions
+=head2 Class Methods
 
-=head3 C<< hello() >>
+=head3 C<< push() >>
 
-# TODO
+Push the button!
 
 =head1 DEPENDENCIES
 
